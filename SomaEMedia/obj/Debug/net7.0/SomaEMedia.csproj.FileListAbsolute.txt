@@ -1,0 +1,15 @@
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\02DesafioSomaEMedia\SomaEMedia\bin\Debug\net7.0\SomaEMedia.exe
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\02DesafioSomaEMedia\SomaEMedia\bin\Debug\net7.0\SomaEMedia.deps.json
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\02DesafioSomaEMedia\SomaEMedia\bin\Debug\net7.0\SomaEMedia.runtimeconfig.json
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\02DesafioSomaEMedia\SomaEMedia\bin\Debug\net7.0\SomaEMedia.dll
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\02DesafioSomaEMedia\SomaEMedia\bin\Debug\net7.0\SomaEMedia.pdb
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\02DesafioSomaEMedia\SomaEMedia\obj\Debug\net7.0\SomaEMedia.csproj.AssemblyReference.cache
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\02DesafioSomaEMedia\SomaEMedia\obj\Debug\net7.0\SomaEMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\02DesafioSomaEMedia\SomaEMedia\obj\Debug\net7.0\SomaEMedia.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\02DesafioSomaEMedia\SomaEMedia\obj\Debug\net7.0\SomaEMedia.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\02DesafioSomaEMedia\SomaEMedia\obj\Debug\net7.0\SomaEMedia.csproj.CoreCompileInputs.cache
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\02DesafioSomaEMedia\SomaEMedia\obj\Debug\net7.0\SomaEMedia.dll
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\02DesafioSomaEMedia\SomaEMedia\obj\Debug\net7.0\refint\SomaEMedia.dll
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\02DesafioSomaEMedia\SomaEMedia\obj\Debug\net7.0\SomaEMedia.pdb
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\02DesafioSomaEMedia\SomaEMedia\obj\Debug\net7.0\SomaEMedia.genruntimeconfig.cache
+C:\Users\jhona\OneDrive\Documentos\repositorioGit\02DesafioSomaEMedia\SomaEMedia\obj\Debug\net7.0\ref\SomaEMedia.dll
